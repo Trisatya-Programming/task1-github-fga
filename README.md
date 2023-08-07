@@ -3,7 +3,7 @@
 Welcome to the Website CV project! This is a web platform that provides concise and informative details about an individual, including educational background, work experiences, skills, and relevant projects. The purpose of this website is to introduce oneself to potential employers or interested parties, facilitating the evaluation of qualifications.
 
 ## Demo Link
-[Live Demo](https://example.com)
+[Live Demo](https://trisatya-programming.github.io/task1-github-fga/)
 
 ## Table of Contents
 - [Business Understanding](#business-understanding)
