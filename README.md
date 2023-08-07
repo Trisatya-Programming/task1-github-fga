@@ -33,11 +33,11 @@ To clone the Git repository, follow these steps:
 2. Change the current working directory to the location where you want to clone the project.
 3. Use the following command to clone the repository:
 
-git clone https://github.com/username/website-cv.git
+git clone https://github.com/Trisatya-Programming/task1-github-fga.git
 
 4. Change the directory to the cloned repository:
 
-cd website-cv
+cd task1-github-fga
 
 You have now successfully cloned the repository to your local machine.
 
